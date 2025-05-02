@@ -1,0 +1,14 @@
+C:\Users\MOISÉS\Desktop\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOISÉS\Desktop\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.AssemblyInfoInputs.cache
+C:\Users\MOISÉS\Desktop\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.AssemblyInfo.cs
+C:\Users\MOISÉS\Desktop\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.csproj.CoreCompileInputs.cache
+C:\Users\MOISÉS\Desktop\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.exe
+C:\Users\MOISÉS\Desktop\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.deps.json
+C:\Users\MOISÉS\Desktop\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.runtimeconfig.json
+C:\Users\MOISÉS\Desktop\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.dll
+C:\Users\MOISÉS\Desktop\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.pdb
+C:\Users\MOISÉS\Desktop\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.dll
+C:\Users\MOISÉS\Desktop\CadastroProdutos\obj\Debug\net8.0\refint\CadastroProdutos.dll
+C:\Users\MOISÉS\Desktop\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.pdb
+C:\Users\MOISÉS\Desktop\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.genruntimeconfig.cache
+C:\Users\MOISÉS\Desktop\CadastroProdutos\obj\Debug\net8.0\ref\CadastroProdutos.dll

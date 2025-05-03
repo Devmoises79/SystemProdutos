@@ -1,6 +1,6 @@
-## 🛒 Sistema de Gerenciamento de Produto - C#
+### 🛒 Sistema de Gerenciamento de Produto - C#
 
-📌 Descrição
+## 📌 Descrição
 Este projeto é um sistema simples de console desenvolvido em C# que permite:
 
 - Registrar um produto com nome, preço e quantidade em estoque.
